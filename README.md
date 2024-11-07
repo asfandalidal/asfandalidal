@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **asfand.azeemi@gmail.com**
 
-- ⚡ Fun fact **“No code has zero defects.”**
+- ⚡ Fun fact **“When you can't fix a bug, turn it into a feature.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
