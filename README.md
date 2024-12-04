@@ -36,8 +36,6 @@
 
 ## 🛠️ Languages and Tools
 
-Here are the languages and tools I work with:
-
 ### Programming Languages
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
