@@ -29,9 +29,8 @@
 
 - Email: **[asfand.azeemi@gmail.com](mailto:asfand.azeemi@gmail.com)**
 - LinkedIn: [Asfand Ali Dal](https://linkedin.com/in/asfand-ali-dal)
-- Twitter: [@asfand_ali](https://twitter.com/)
 
-> "When you can't fix a bug, turn it into a feature."
+> **"When you can't fix a bug, turn it into a feature."** 😄
 
 ---
 
