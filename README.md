@@ -48,8 +48,8 @@
 
 ### Tools & Frameworks
 
-- **Firebase** 🔥
 - **Android** 📱
+- **Firebase** 🔥
 - **Spring Boot** 🚀
 - **MySQL & PostgreSQL** 💾
 - **Room DB** 🗃️
@@ -75,7 +75,7 @@
 ## 🎯 Goals
 
 - Contribute to open-source projects 🌍
-- Build more mobile apps using **Flutter** and **Android** 📱
+- Build more mobile apps using **Android** 📱
 - Learn new technologies and tools 💡
 
 ---
