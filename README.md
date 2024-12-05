@@ -9,7 +9,6 @@
 ## 🚀 Current Learning Focus
 
 - **Android Development** 📱 (Kotlin, Jetpack Compose)
-- **Flutter** 🌐 (Cross-platform apps with Dart)
 - **Backend Development** ⚙️ (Spring Boot)
 - **Database Management** 📊 (Room DB, MySQL, PostgreSQL)
 - **Cloud & Firebase** 🔥 (Realtime databases, Authentication)
@@ -19,7 +18,6 @@
 ## 🌱 What I’m Working On
 
 - Building **Android apps** with **Kotlin** and **Jetpack Compose**.
-- Exploring **Flutter** for **cross-platform app development**.
 - Integrating **Firebase** for cloud solutions and real-time data.
 - Working on **backend systems** with **Spring Boot** and SQL databases.
 
@@ -51,7 +49,6 @@
 ### Tools & Frameworks
 
 - **Firebase** 🔥
-- **Flutter** 🌐
 - **Android** 📱
 - **Spring Boot** 🚀
 - **MySQL & PostgreSQL** 💾
